@@ -1,6 +1,3 @@
-insert into MOCK_DATA (id, first_name, last_name, gender, date_of_birth, country_of_birth, email) values (1, 'Maurizio', 'Heersma', 'Male', '2001-11-05', '2008-03-30', null);
-insert into MOCK_DATA (id, first_name, last_name, gender, date_of_birth, country_of_birth, email) values (2, 'Casie', 'Dilks', 'Female', '1970-05-11', '2019-12-07', 'cdilks1@tinyurl.com');
-insert into MOCK_DATA (id, first_name, last_name, gender, date_of_birth, country_of_birth, email) values (3, 'Haven', 'Pitchford', 'Male', '1975-08-20', '1953-05-03', 'hpitchford2@godaddy.com');
 insert into MOCK_DATA (id, first_name, last_name, gender, date_of_birth, country_of_birth, email) values (4, 'Irina', 'Windross', 'Female', '1985-02-27', '2007-04-16', null);
 insert into MOCK_DATA (id, first_name, last_name, gender, date_of_birth, country_of_birth, email) values (5, 'Lewes', 'Darker', 'Male', '2023-04-01', '1963-09-24', 'ldarker4@infoseek.co.jp');
 insert into MOCK_DATA (id, first_name, last_name, gender, date_of_birth, country_of_birth, email) values (6, 'Jenilee', 'Jacobbe', 'Female', '1961-03-12', '1961-09-04', null);
